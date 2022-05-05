@@ -6,18 +6,11 @@
 /*   By: vzayas-s <vzayas-s@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/28 12:43:47 by vzayas-s          #+#    #+#             */
-/*   Updated: 2022/03/28 16:29:05 by vzayas-s         ###   ########.fr       */
+/*   Updated: 2022/05/05 20:46:26 by vzayas-s         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-/* #include<stdio.h>
-
-int	ft_isalpha(int c);
-
-int	main(void)
-{
-	printf("%d", ft_isalpha('a'));
-} */
+#include "libft.h"
 
 int	ft_isalpha(int c)
 {

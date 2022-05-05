@@ -11,16 +11,6 @@
 /* ************************************************************************** */
 
 #include"libft.h"
-/* #include<stdio.h>
-#include<stdlib.h>
-
-int	ft_atoi(const char *str);
-
-int	main(int argc, char **argv)
-{	
-	(void)argc;
-	printf("atoi: %d \n", ft_atoi(argv[1]));
-} */
 
 int	ft_cmp(const char *str)
 {

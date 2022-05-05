@@ -11,15 +11,6 @@
 /* ************************************************************************** */
 
 #include"libft.h"
-/* #include<stdio.h>
-
-char	*ft_substr(const char *s, unsigned int start, size_t len);
-
-int	main(void)
-{
-	char	*s = "hola buenas tardes papu";
-	printf("%s \n", ft_substr(s, 5, 10));
-} */
 
 char	*ft_substr(char const *s, unsigned int start, size_t len)
 {

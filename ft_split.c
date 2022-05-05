@@ -6,28 +6,11 @@
 /*   By: vzayas-s <vzayas-s@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/08 17:35:01 by vzayas-s          #+#    #+#             */
-/*   Updated: 2022/04/08 19:15:42 by vzayas-s         ###   ########.fr       */
+/*   Updated: 2022/05/05 20:51:25 by vzayas-s         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
-/* #include <stdio.h>
-
-char	**ft_split(const char *s, char c);
-
-int	main(void)
-{
-	char	**result;
-	int		i;
-
-	i = 0;
-	result = ft_split("true fan jujer", ' ');
-	while (result[i] != NULL)
-	{
-		printf("%s \n", result[i]);
-		i++;
-	}
-} */
 
 static int	ft_countwords(const char *s, char c)
 {

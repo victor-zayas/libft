@@ -6,27 +6,11 @@
 /*   By: vzayas-s <vzayas-s@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/06 17:52:17 by vzayas-s          #+#    #+#             */
-/*   Updated: 2022/04/09 11:12:18 by vzayas-s         ###   ########.fr       */
+/*   Updated: 2022/05/05 20:52:42 by vzayas-s         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
-/* #include <stdio.h>
-
-char    f(unsigned int i, char c);
-char    *ft_strmapi(char const *s, char (*f)(unsigned int, char));
-
-int main(void)
-{
-	char str[]= "hola";
-	printf("%s\n", ft_strmapi(str, f));
-}
-
-char    f(unsigned int i, char c)
-{
-	printf("%d", i);
-	return (c);
-} */
 
 char	*ft_strmapi(char const *s, char (*f)(unsigned int, char))
 {

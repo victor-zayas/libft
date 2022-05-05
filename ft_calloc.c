@@ -11,17 +11,6 @@
 /* ************************************************************************** */
 
 #include"libft.h"
-/* #include<stdio.h>
-
-void    *ft_calloc(size_t n, size_t size);
-
-int main(void)
-{
-	size_t  n = 4;
-	size_t  size = 6;
-
-	printf("%p \n", ft_calloc(n, size));
-} */
 
 void	*ft_calloc(size_t n, size_t size)
 {

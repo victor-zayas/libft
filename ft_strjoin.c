@@ -6,22 +6,11 @@
 /*   By: vzayas-s <vzayas-s@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/04 13:19:54 by vzayas-s          #+#    #+#             */
-/*   Updated: 2022/04/21 16:36:08 by vzayas-s         ###   ########.fr       */
+/*   Updated: 2022/05/05 20:52:06 by vzayas-s         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include"libft.h"
-/* #include<stdio.h>
-
-char	*ft_strjoin(const char *s1, const char *s2);
-
-int	main(void)
-{
-	char	*s1 = "papu papu papu";
-	char	*s2 = " bicho blanco -2022";
-
-	printf("%s \n", ft_strjoin(s1, s2));
-} */
 
 char	*ft_strjoin(const char *s1, const char *s2)
 {

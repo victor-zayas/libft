@@ -11,16 +11,6 @@
 /* ************************************************************************** */
 
 #include"libft.h"
-/* #include<stdio.h>
-#include<string.h>
-
-char    *ft_strdup(const char *s);
-
-int main(void)
-{
-	printf("%s \n", ft_strdup("Hola buenas tardes"));
-	printf("%s \n", strdup("Hola buenas tardes"));
-} */
 
 char	*ft_strdup(const char *s)
 {

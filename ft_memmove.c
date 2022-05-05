@@ -11,19 +11,6 @@
 /* ************************************************************************** */
 
 #include "libft.h"
-/* #include<stdio.h>
-
-void	*ft_memmove(void *dst, const void *src, size_t len);
-
-int	main(void)
-{
-    char src[] = "hola";
-    char dst[1];
-    size_t len = 3;
-
-    printf("%s \n", (char *)ft_memmove(dst, src, len));
-
-} */
 
 void	*ft_memmove(void *dst, const void *src, size_t len)
 {

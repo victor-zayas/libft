@@ -6,23 +6,11 @@
 /*   By: vzayas-s <vzayas-s@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/28 18:47:56 by vzayas-s          #+#    #+#             */
-/*   Updated: 2022/04/09 10:58:03 by vzayas-s         ###   ########.fr       */
+/*   Updated: 2022/05/05 20:51:07 by vzayas-s         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include"libft.h"
-/* #include<stdio.h>
-
-void	*ft_memset(void *str, int c, size_t len);
-
-int	main(void)
-{
-	char	str[] = "macarrones";
-	int		c = 'A';
-	int		len = 4;
-
-	printf("%s", ft_memset(str, c, len));
-} */
 
 void	*ft_memset(void *str, int c, size_t len)
 {

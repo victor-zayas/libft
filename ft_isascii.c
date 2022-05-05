@@ -6,18 +6,11 @@
 /*   By: vzayas-s <vzayas-s@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/07 12:46:30 by vzayas-s          #+#    #+#             */
-/*   Updated: 2022/04/07 12:46:32 by vzayas-s         ###   ########.fr       */
+/*   Updated: 2022/05/05 20:47:47 by vzayas-s         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-/* #include<stdio.h>
-
-int	ft_isascii(int c);
-
-int	main(void)
-{
-	printf("%d", ft_isascii(42));
-} */
+#include "libft.h"
 
 int	ft_isascii(int c)
 {

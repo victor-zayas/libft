@@ -6,19 +6,11 @@
 /*   By: vzayas-s <vzayas-s@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/06 16:06:31 by vzayas-s          #+#    #+#             */
-/*   Updated: 2022/04/09 09:47:31 by vzayas-s         ###   ########.fr       */
+/*   Updated: 2022/05/05 20:48:34 by vzayas-s         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include"libft.h"
-/* #include<stdio.h>
-
-char	*ft_itoa(int n);
-
-int	main(void)
-{
-	printf("%s\n", ft_itoa(0));
-} */
 
 int	ft_len(int n)
 {

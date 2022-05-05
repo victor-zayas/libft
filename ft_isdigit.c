@@ -6,18 +6,11 @@
 /*   By: vzayas-s <vzayas-s@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/02/28 13:52:10 by vzayas-s          #+#    #+#             */
-/*   Updated: 2022/03/28 16:29:08 by vzayas-s         ###   ########.fr       */
+/*   Updated: 2022/05/05 20:48:07 by vzayas-s         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-/* #include<stdio.h>
-
-int	ft_isdigit(int d);
-
-int	main(void)
-{
-	printf("%d", ft_isdigit('a'));
-} */
+#include "libft.h"
 
 int	ft_isdigit(int d)
 {

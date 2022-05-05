@@ -11,18 +11,6 @@
 /* ************************************************************************** */
 
 #include"libft.h"
-/* #include<stdio.h>
-
-void	*ft_memchr(const void *s, int c, size_t n);
-
-int main(void)
-{
-	unsigned char s[] = "el diablo de 42";
-	int	c = 0;
-	size_t	n = 15;
-
-	printf("%s \n", (char *)ft_memchr(s, c, n));
-} */
 
 void	*ft_memchr(const void *s, int c, size_t n)
 {

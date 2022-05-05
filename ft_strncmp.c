@@ -6,21 +6,11 @@
 /*   By: vzayas-s <vzayas-s@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/29 11:36:51 by vzayas-s          #+#    #+#             */
-/*   Updated: 2022/04/07 12:36:36 by vzayas-s         ###   ########.fr       */
+/*   Updated: 2022/05/05 20:52:49 by vzayas-s         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include"libft.h"
-/* #include<stdio.h>
-#include<string.h>
-
-int	ft_strncmp(const char *s1, const char *s2, size_t n);
-
-int	main(void)
-{
-	printf("%d \n", ft_strncmp("test\200", "test\0", 5));
-	printf("%d \n", strncmp("test\200", "test\0", 5));
-} */
 
 int	ft_strncmp(const char *s1, const char *s2, size_t n)
 {

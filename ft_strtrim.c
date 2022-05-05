@@ -6,23 +6,11 @@
 /*   By: vzayas-s <vzayas-s@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/04 14:10:36 by vzayas-s          #+#    #+#             */
-/*   Updated: 2022/04/09 10:02:28 by vzayas-s         ###   ########.fr       */
+/*   Updated: 2022/05/05 20:53:41 by vzayas-s         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include"libft.h"
-//#include<stdio.h>
-
-char	*ft_strtrim(const char *s1, const char *set);
-/* int		ft_check(char c, const char *set);
-
-int	main(void)
-{
-	char	*s1 = "aloh p hola";
-	char	*set = "hola";
-
-	printf("%s \n", ft_strtrim("   xxxtripouille   xxx", " x"));
-} */
 
 int	ft_check(char c, const char *set)
 {
